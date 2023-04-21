@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.container {
+  display: flex;
+}
+
+.line {
+  height: 224px;
+  border-left: 6px solid #272775;
+  width: 5px;
+}
+
+.horizontal {
+  height: 2px;
+  border-bottom: 6px solid #272775;
+  margin-left: 150px;
+}
+
+.bg-container {
+  background-color: #fc7796;
+  color: #272775;
+}
+
+.color {
+  color: blue;
+}
+
+.job {
+  font-size: 15px;
+  margin-bottom: 0px;
+}
+
+.space {
+  margin-bottom: 35px;
+}
+
+.flex {
+  display: flex;
+}
+
+.margin {
+  margin-left: 100px;
+}
+
+.margin-1 {
+  margin-left: 80px;
+}
+
+.job-2 {
+  font-size: 13px;
+}
+
+.icon {
+  font-size: 45px;
+  padding-top: 22px;
+  color: #fc7796;
+}
+
+.center {
+  text-align: center;
+}
+
+.icon-2 {
+  font-size: 45px;
+  padding-top: 22px;
+}
+
+.bulb {
+  background-color: #272775;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  text-align: center;
+}
+
+.color {
+  color: black;
+}
+
+.circle {
+  border: 5px solid;
+  border-color: #272775;
+  border-radius: 50%;
+  height: 100px;
+  text-align: center;
+  width: 100px;
+}
